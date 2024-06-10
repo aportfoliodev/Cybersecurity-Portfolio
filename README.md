@@ -1,4 +1,5 @@
 # Cybersecurity-Portfolio
+
 # Professional Statement
 
 ## Strengths
@@ -25,4 +26,7 @@
 - **Proficiency in Office 365 and Microsoft Azure security**: Creating comprehensive security measures with ATP policies, Azure AD Identity Protection, Conditional Access, CASB, and Data Loss Prevention.
 - **Enhancing security measures**: Training staff and fostering a secure digital environment for organizations.
 
-By leveraging my strengths, values, and passion for cybersecurity, I aim to contribute significantly to the security posture of organizations, helping them build resilient and secure digital infrastructures.
+## Continuous Professional Development
+- **Google Cybersecurity Certificate**: Pursuing this certification to develop the professional skills I lack and become a better candidate.
+
+By leveraging my strengths, values, and passion for cybersecurity, along with the skills gained from the Google Cybersecurity Certificate, I aim to contribute significantly to the security posture of organizations, helping them build resilient and secure digital infrastructures.
